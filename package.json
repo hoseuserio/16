@@ -1,11 +1,11 @@
 
 {
-    "name": "collect-and-upload",
+    "name": "ca",
     "version": "1.0.0",
-    "description": "Скрипт для сбора и отправки данных macOS",
-    "main": "collect-and-upload.js",
+    "description": "s",
+    "main": "C2.js",
     "scripts": {
-      "start": "node collect-and-upload.js"
+      "start": "node C2.js"
     },
     "keywords": [
       "data-collection",
